@@ -1,5 +1,5 @@
 # Prueba
 Primer repositorio GitHub
 
-# Descripción
+## Descripción
 Este es un repositorio creado solo para curso de GitHub
